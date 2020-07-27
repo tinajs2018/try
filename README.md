@@ -1,2 +1,2 @@
 # try
-to learn more
+Learning js
